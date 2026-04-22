@@ -1,1 +1,1 @@
-FROM yauritux/busybox-curl
+FROM yauritux/busybox-curl:latest
