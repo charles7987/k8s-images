@@ -1,1 +1,1 @@
-aa
+quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
