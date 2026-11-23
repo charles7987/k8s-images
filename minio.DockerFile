@@ -1,1 +1,1 @@
-FROM quay.io/minio/minio
+FROM docker.io/minio/minio
